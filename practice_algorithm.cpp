@@ -3,7 +3,7 @@
 
 using namespace std;
 
-#Author: Jose Ignacio Paez Batallas
+//Author: Jose Ignacio Paez Batallas
 
 vector<int> createListInt(vector<int> list, int quantity)
 {
