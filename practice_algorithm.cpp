@@ -1,6 +1,9 @@
 #include <iostream>
 #include <vector>
+
 using namespace std;
+
+#Author: Jose Ignacio Paez Batallas
 
 vector<int> createListInt(vector<int> list, int quantity)
 {
